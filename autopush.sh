@@ -1,4 +1,4 @@
-pwd
+sudo
 git init
 git add .
 git commit -m "AutoCommit"
